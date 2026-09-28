@@ -4,7 +4,7 @@
 
 A user has lost their phone, has a new one, or can't complete MFA.
 
-Helpdesk MFA resets are a favourite social engineering target: attackers call pretending to be an employee. Verifying identity is the most important step in this runbook.
+Attackers regularly call helpdesks pretending to be an employee to get MFA reset, so don't skip step 1.
 
 ## Access needed
 

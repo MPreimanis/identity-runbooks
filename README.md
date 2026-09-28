@@ -1,6 +1,6 @@
 # identity-runbooks
 
-Operational runbooks for identity and access work in a Microsoft Entra ID environment, hybrid or cloud-only. They are written to be followed during real work, including at 3 a.m.: when to use each one, what access you need, the steps in order, how to check the result, how to roll back, and when to escalate.
+Runbooks for identity and access work in Microsoft Entra ID, for hybrid or cloud-only setups. Each one says when to use it and what access you need, then gives the steps in order, how to check the result, how to roll back, when to escalate and what to write down.
 
 | Runbook | Use it when |
 |---|---|
@@ -13,7 +13,7 @@ Operational runbooks for identity and access work in a Microsoft Entra ID enviro
 | [Compromised account](compromised-account.md) | Signs that someone else is using an account |
 | [Sign-in outage](sign-in-outage.md) | Many users can't sign in (P1) |
 
-Every runbook has the same sections: when to use it, access needed, steps, check, rollback, escalate, and record. Adapt names, tools and approvers to your organisation before using them.
+Names, tools and approvers are kept generic, so adapt them to your organisation before using them.
 
 ## Licence
 

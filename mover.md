@@ -34,4 +34,6 @@ Access nobody can explain goes to the security team as a finding.
 
 What was added, what was removed, who approved it, and the end date of any overlap.
 
-The usual failure is adding access without removing any. Over a few moves, one person collects the access of three roles.
+## Common mistake
+
+Adding the new access and forgetting to remove the old. After a few moves, someone can end up with the access of three different roles.

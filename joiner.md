@@ -17,7 +17,7 @@ User Administrator (or the joiner automation), Groups Administrator for access g
    - Cloud-only: create it in Entra ID or run the joiner script.
    - Use the naming convention for the UPN, and set the usage location, or licences can't be assigned.
 4. Birthright access comes from department and role: dynamic groups pick the user up automatically, and licences come from group-based licensing.
-5. Anything beyond birthright goes through an access request approved by the resource owner. Never copy another person's access.
+5. Anything beyond birthright goes through an access request approved by the resource owner. Don't copy access from a colleague's account.
 6. Prepare the device and assign it to the user.
 7. On day one, issue a one-time Temporary Access Pass and give it to the manager through the agreed channel. The user signs in with it and registers a passkey in Microsoft Authenticator.
 
@@ -36,4 +36,4 @@ Sync errors go to the identity team. Licence shortages go to the licence owner.
 
 ## Record
 
-In the ticket: employee ID, account, groups, licences, and that a TAP was issued. Never record the pass itself.
+In the ticket: employee ID, account, groups, licences, and that a TAP was issued. Don't write down the pass itself.

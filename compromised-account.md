@@ -2,9 +2,9 @@
 
 ## When to use it
 
-Someone else may be using an account: a risk alert, a user reporting an MFA prompt they didn't start, sign-ins from unexpected places, or a new forwarding rule.
+Someone else may be using an account. Typical signs are a risk alert, a user reporting an MFA prompt they didn't start, sign-ins from unexpected places, or a new forwarding rule.
 
-Order matters: contain, investigate, evict, recover, learn.
+Work through the sections in order.
 
 ## Access needed
 
@@ -44,4 +44,4 @@ Security Administrator or Global Administrator through PIM, plus Exchange Admini
 
 ## Record
 
-A timeline of what happened and what you did, with times. Legal, audit and the post-incident review all need it.
+A timeline of what happened and what you did, with times. You'll need it for the post-incident review, and possibly for legal or audit.

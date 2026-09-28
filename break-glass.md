@@ -28,7 +28,7 @@ The sign-in alert fired within minutes. If it didn't, fixing the alert is part o
 
 ## Testing
 
-Every quarter: sign in with each account, confirm the access and the alert, and record the test. An account nobody has tested may not work when you need it.
+Every quarter, sign in with each account, confirm the access and the alert, and record the test.
 
 ## Record
 
